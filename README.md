@@ -1,5 +1,3 @@
-# ajax-multipart-formdata-passing-with-jquery
-
 # Ajax Multipart FormData Passing with jQuery
 
 This project demonstrates how to prepare and pass form data, including file uploads, using jQuery's `$.ajax()` method. The form data is sent to a PHP backend for processing.
@@ -21,7 +19,7 @@ This project demonstrates how to prepare and pass form data, including file uplo
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/ajax-multipart-formdata-passing-with-jquery.git
+    git clone https://github.com/wholeomarfaruk/ajax-multipart-formdata-passing-with-jquery.git
     ```
 
 2. **Navigate to the project directory**:
