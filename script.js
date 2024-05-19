@@ -27,7 +27,7 @@ $('body').off('submit', '#form').on('submit', '#form', function (e) {
       success: function (response) {
         // Handle successful response
         console.log(response);
-       
+        $('#proccessData').text(response);
         
       },
       error: function (xhr, status, error) {
